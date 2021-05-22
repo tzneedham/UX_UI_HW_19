@@ -35,7 +35,7 @@
   
 .headernavtext li a:hover:not(.active) {
     background-color:none;
-    color: #CFB951;
+    color: blue;
     border-bottom: 3px solid black;
 
 }
